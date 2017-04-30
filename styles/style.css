@@ -12,3 +12,11 @@ body {
 section {
     margin-bottom: 50px;
 }
+
+body {
+    margin-top: 10%;
+}
+
+.badge {
+    font-size: 26px;
+}
